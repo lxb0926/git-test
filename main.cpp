@@ -27,7 +27,7 @@ int main()
         cout<<"请输入您的选择"<<endl;
         cout<<"请谨慎选择"<<endl;
         cout<<"再次请谨慎选择"<<endl;
-        cin>>choice;
+        cin>>choice;jkjkj
 
 
         switch (choice)
