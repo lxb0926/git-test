@@ -25,6 +25,7 @@ int main()
     {
         sm.show_Menu();
         cout<<"请输入您的选择"<<endl;
+        cout<<"请谨慎选择"<<endl;
         cin>>choice;
 
 
